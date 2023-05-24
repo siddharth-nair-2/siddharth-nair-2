@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://siddharthnair.info/](https://siddharthnair.info/)
 
-- ⚡ Fun fact [I love football! FC Barcelona is my favourite team!](I love football! FC Barcelona is my favourite team!)
+- ⚡ Fun fact I love football! FC Barcelona is my favourite team!
 
 - 📫 How to reach me **nairsid2@gmail.com**
 
