@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth-nair-2" alt="siddharth-nair-2" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js 13.4 and React Performance Optimization!**
+- 🌱 I’m currently learning **Epic React by Kent C. Dodds!**
 
 - 👨‍💻 All of my projects are available at [https://siddharthnair.info/](https://siddharthnair.info/)
 
