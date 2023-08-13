@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning more about **CI/CD**!<br><br>👨‍💻 All of my projects are available at [https://siddharthnair.info/](https://siddharthnair.info/)<br><br>⚡ Fun fact I love football! FC Barcelona is my favourite team! Messi 🐐<br><br>📫 How to reach me **nairsid2@gmail.com**
+🌱 I’m currently learning more about **CI/CD**!<br><br>👨‍💻 All of my projects are available at [https://siddharthnair.info/](https://siddharthnair.info/)<br><br>⚡ Fun fact I love football! FC Barcelona is my favourite team! Messi 🐐<br><br>📫 How to reach me: **nairsid2@gmail.com**
 
 
 ## 🌐 Socials:
